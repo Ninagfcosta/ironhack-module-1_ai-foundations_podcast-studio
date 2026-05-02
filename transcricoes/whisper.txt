@@ -1,0 +1,1 @@
+Olá, meu nome é Nina, hoje estou aprendendo sobre inteligência artificial, estou usando o API do Whisper da OpenAI para converter fala em texto, este é um teste de transcrição para avaliar a precisão do sistema.
