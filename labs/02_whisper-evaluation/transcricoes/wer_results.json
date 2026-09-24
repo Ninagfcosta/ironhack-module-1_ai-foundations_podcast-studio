@@ -1,0 +1,10 @@
+{
+  "wer": 0.0,
+  "accuracy": 1.0,
+  "wer_percentual": "0.00%",
+  "accuracy_percentual": "100.00%",
+  "substituicoes": 0,
+  "insercoes": 0,
+  "delecoes": 0,
+  "palavras_corretas": 36
+}
