@@ -1,0 +1,55 @@
+[
+  {
+    "title": "Premium Wireless Bluetooth Headphones - Black",
+    "description": "Experience unparalleled sound quality with our Premium Wireless Bluetooth Headphones. Crafted with sleek black materials that exude elegance, these headphones are designed for both style and comfort. The cushioned ear pads provide an ultra-comfortable fit for long listening sessions, while the adjustable headband ensures a tailored fit for any head size. Featuring advanced Bluetooth technology, these headphones offer seamless connectivity with your devices, allowing you to enjoy crystal-clear audio without the hassle of tangled wires. Whether you're commuting, working out, or relaxing at home, these headphones deliver superior sound performance with deep bass and crisp tones. Plus, with extended battery life, you can enjoy music all day long without needing frequent recharges. Elevate your audio experience with our state-of-the-art headphones today.",
+    "features": [
+      "Sleek black design for modern appeal",
+      "Advanced Bluetooth connectivity for seamless use",
+      "Cushioned ear pads for comfort during long listening sessions",
+      "Adjustable headband for a custom fit",
+      "High-quality audio with deep bass and crisp tones",
+      "Long-lasting battery life for extended playtime",
+      "Built-in microphone for hands-free calls"
+    ],
+    "keywords": "wireless headphones, Bluetooth headphones, black headphones, premium sound, long battery life, cushioned ear pads, adjustable headband, seamless connectivity, hands-free calls, deep bass",
+    "product_id": 1,
+    "product_name": "Wireless Bluetooth Headphones",
+    "price": 79.99,
+    "category": "Electronics"
+  },
+  {
+    "title": "Vibrant Red Lightweight Running Sneakers",
+    "description": "Elevate your running experience with our Vibrant Red Lightweight Running Sneakers. Designed to blend style and performance, these sneakers feature a striking red knit upper that ensures breathability and support. The sleek design is complemented by a bold white swoosh, adding a dynamic flair to your stride. A cushioned sole provides superior comfort and impact absorption, perfect for long runs or daily workouts. Made with high-quality materials, these sneakers ensure durability and flexibility, allowing you to push your limits. Whether you're training for a marathon or enjoying a casual jog, our running sneakers are your perfect companion.",
+    "features": [
+      "Breathable red knit upper",
+      "Bold white swoosh design",
+      "Lightweight and flexible construction",
+      "Cushioned sole for impact absorption",
+      "Durable high-quality materials",
+      "Ideal for long-distance running and daily workouts"
+    ],
+    "keywords": "running sneakers, red sneakers, lightweight footwear, breathable shoes, cushioned sneakers, stylish running shoes, athletic shoes, durable sneakers, knit upper, flexible running shoes",
+    "product_id": 2,
+    "product_name": "Running Sneakers",
+    "price": 129.99,
+    "category": "Footwear"
+  },
+  {
+    "title": "Sleek Black Leather Backpack for Everyday Use",
+    "description": "Elevate your style with our sleek black leather backpack, perfect for both daily commutes and weekend adventures. Crafted with high-quality leather, this backpack offers a sophisticated aesthetic that effortlessly complements any outfit. The minimalist design features a spacious interior with multiple compartments, ensuring you can organize your essentials with ease. The durable zippers and sturdy straps provide reliable functionality, while the soft leather finish ensures comfort during extended wear. Whether you're heading to work or exploring new cities, this backpack combines practicality with timeless elegance.",
+    "features": [
+      "High-quality black leather material",
+      "Spacious interior with multiple compartments",
+      "Durable zippers for secure closure",
+      "Adjustable straps for comfortable wear",
+      "Minimalist and versatile design",
+      "Lightweight and easy to carry",
+      "Perfect for commuting or traveling"
+    ],
+    "keywords": "leather backpack, black backpack, daily use bag, versatile backpack, travel backpack, high-quality leather, minimalist design, school bag, work bag, comfortable straps, durable backpack, sleek design, fashion backpack",
+    "product_id": 3,
+    "product_name": "Leather Backpack",
+    "price": 89.99,
+    "category": "Bags"
+  }
+]
