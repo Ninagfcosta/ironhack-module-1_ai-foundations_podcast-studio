@@ -27,4 +27,4 @@ Everything that was requested in this module lives here, one folder per lab. The
 - Each folder has its own README / notebook. Secrets (`.env`) are never committed: copy `.env.example` where it exists.
 
 ---
-Other modules: [Module 1](https://github.com/ninagfcosta/ironhack-module-1_ai-foundations_podcast-studio) · [Module 2](https://github.com/ninagfcosta/ironhack-module-2_python-apis_content-creator) · [Module 3](https://github.com/ninagfcosta/ironhack-module-3_rag-agents_company-research) · [Module 4](https://github.com/ninagfcosta/ironhack-module-4_evaluation-compliance_silvertrust) · [Capstone: KlarSchiff](https://github.com/ninagfcosta/Project_4_Capstone_KlarSchiff)
+Other modules: [Module 1](https://github.com/ninagfcosta/ironhack-module-1_ai-foundations_podcast-studio) · [Module 2](https://github.com/ninagfcosta/ironhack-module-2_python-apis_content-creator) · [Module 3](https://github.com/ninagfcosta/ironhack-module-3_rag-agents_company-research) · [Module 4](https://github.com/ninagfcosta/ironhack-module-4_evaluation-compliance_silvertrust) · [Capstone: KlarSchiff](https://github.com/ninagfcosta/ironhack-capstone_klarschiff)
